@@ -1,0 +1,98 @@
+{
+  "date": "2026-03-14",
+  "vibe": "Saturday selections. UK jazz, Tokyo math-rock, Melbourne funk, Berlin techno. 10 tracks, no filler.",
+  "playlistUrl": "https://open.spotify.com/playlist/421gX3j9zgu4kb67sZ98Om",
+  "playlistName": "Daily Discoveries \u2014 2026-03-14",
+  "tracks": [
+    {
+      "name": "Woman's Touch (feat. Jamilah Barry)",
+      "artist": "Yussef Dayes, Jamilah Barry",
+      "album": "Black Classical Music",
+      "art": "https://i.scdn.co/image/ab67616d0000b273dd7cb838198e61322964f7b0",
+      "url": "https://open.spotify.com/track/6hs4cDBrlEboUwE7MGbaXu",
+      "reason": "London jazz meets broken beat \u2014 Yussef Dayes is redefining UK jazz. Drummer-composer who makes you feel like you're in a Peckham basement at 2am.",
+      "isNew": true
+    },
+    {
+      "name": "Vocoder [Club Mix]",
+      "artist": "Floating Points",
+      "album": "Cascade",
+      "art": "https://i.scdn.co/image/ab67616d0000b273e54a661b8aff6d4f2fe7aa29",
+      "url": "https://open.spotify.com/track/4Bbb5DAOZvlbxsNkjf8UQY",
+      "reason": "Sam Shepherd bridges electronic and classical like nobody else. This one shimmers \u2014 minimal, precise, emotionally devastating.",
+      "isNew": true
+    },
+    {
+      "name": "(It Goes Like) Nanana",
+      "artist": "Peggy Gou",
+      "album": "(It Goes Like) Nanana",
+      "art": "https://i.scdn.co/image/ab67616d0000b273a658ab0f60cc249da0b97de5",
+      "url": "https://open.spotify.com/track/5Hijdt7rmbj9fUJdXEs6Nz",
+      "reason": "Korean-born, Berlin-based DJ who crossed over massive. This track was everywhere in 2024 \u2014 instant party energy.",
+      "isNew": true
+    },
+    {
+      "name": "Red Room",
+      "artist": "Hiatus Kaiyote",
+      "album": "Mood Valiant",
+      "art": "https://i.scdn.co/image/ab67616d0000b273da81bffabbcac771ccff4e99",
+      "url": "https://open.spotify.com/track/55mvtucws4Mnro27744t9X",
+      "reason": "Melbourne future-soul. Nai Palm's voice is otherworldly \u2014 jazz, funk, electronic all twisted together. Anderson .Paak is a fan.",
+      "isNew": true
+    },
+    {
+      "name": "Daylight Savings",
+      "artist": "Surprise Chef",
+      "album": "Daylight Savings",
+      "art": "https://i.scdn.co/image/ab67616d0000b273e240bd08566408b30d136b5f",
+      "url": "https://open.spotify.com/track/5HqzKhakoJKeYLSc0fYELH",
+      "reason": "Melbourne instrumental funk straight out of the 70s. All analog, no computers. Like finding a lost Meters record.",
+      "isNew": true
+    },
+    {
+      "name": "China",
+      "artist": "kensuke ushio",
+      "album": "Ping Pong (Original Soundtrack)",
+      "art": "https://i.scdn.co/image/ab67616d0000b2737e1aa17b7ea57fed57f7ad9e",
+      "url": "https://open.spotify.com/track/4S2lsYK64KkIYNME2Zhn5u",
+      "reason": "Japanese punk-pop quartet who don't care about your genre rules. Kawaii meets noise-punk. They opened for Gorillaz.",
+      "isNew": true
+    },
+    {
+      "name": "So U Kno",
+      "artist": "Overmono",
+      "album": "Good Lies",
+      "art": "https://i.scdn.co/image/ab67616d0000b273dd8fbf4e3c304f6b3602a745",
+      "url": "https://open.spotify.com/track/1YGxSgWIWqxKuLLocPVxhC",
+      "reason": "Welsh brothers making UK rave music that actually crosses over. This one builds and builds \u2014 proper euphoric.",
+      "isNew": true
+    },
+    {
+      "name": "Softly",
+      "artist": "Arlo Parks",
+      "album": "Softly",
+      "art": "https://i.scdn.co/image/ab67616d0000b273002ab696772313e7297ea697",
+      "url": "https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM",
+      "reason": "South London poet turned indie darling. Gentle, devastating lyrics over dreamy production. Gen-Z Sade energy.",
+      "isNew": true
+    },
+    {
+      "name": "Breathe",
+      "artist": "Alfa Mist, Kaya Thomas-Dyke",
+      "album": "Antiphon",
+      "art": "https://i.scdn.co/image/ab67616d0000b2735d46b069ef33382b235b296a",
+      "url": "https://open.spotify.com/track/6nGNzqlHTKugpRWkXrZkPC",
+      "reason": "London-raised, Afro-Cuban influenced jazz pianist. Hip-hop sensibility, jazz chops. Stones Throw vibes.",
+      "isNew": true
+    },
+    {
+      "name": "\u30b0\u30c3\u30c9\u30d0\u30a4 -album version-",
+      "artist": "toe",
+      "album": "For Long Tomorrow",
+      "art": "https://i.scdn.co/image/ab67616d0000b273218f23e309df278d5b04748c",
+      "url": "https://open.spotify.com/track/30oddeV4b75MDQ6JvkAXCW",
+      "reason": "Japanese math-rock legends. Intricate guitar work that somehow feels emotional, not technical. Essential J-rock.",
+      "isNew": true
+    }
+  ]
+}
