@@ -1,0 +1,98 @@
+{
+  "date": "2026-03-16",
+  "vibe": "Dub techno for wandering Roppongi Hills at night — deep, hypnotic, minimal. The sound of neon reflecting off wet concrete at 5 PM in March.",
+  "playlistUrl": "https://open.spotify.com/playlist/1IMHoqxVxY57b6E2dSfx2z",
+  "playlistName": "🌃 Roppongi Dub Sessions",
+  "tracks": [
+    {
+      "name": "Quadrant Dub I",
+      "artist": "Basic Channel",
+      "album": "Quadrant Dub",
+      "art": "https://i.scdn.co/image/ab67616d0000b273b526841769decb70ffb826ba",
+      "url": "https://open.spotify.com/track/0dC0x8MaaASf0zenCVA4zc",
+      "reason": "The blueprint. Moritz von Oswald and Mark Ernestus invented dub techno with this — 15 minutes of pure hypnosis. The reverb IS the instrument.",
+      "isNew": false
+    },
+    {
+      "name": "Vantage Isle - DC Mix I",
+      "artist": "Deepchord",
+      "album": "Vantage Isle (Remastered)",
+      "art": "https://i.scdn.co/image/ab67616d0000b273e3e0559e22207b48141a5096",
+      "url": "https://open.spotify.com/track/6kCfoP2ZR3rybgrSbPDQPr",
+      "reason": "Rod Modell's Deepchord project — Detroit meets Berlin in the most beautiful way. Sounds like driving through fog at 3 AM.",
+      "isNew": false
+    },
+    {
+      "name": "Oblique",
+      "artist": "Fluxion",
+      "album": "Vibrant Forms II",
+      "art": "https://i.scdn.co/image/ab67616d0000b273da69adb3fe3d0a99076d0c76",
+      "url": "https://open.spotify.com/track/0O8RouQI1cT37Kta9GIiwh",
+      "reason": "Greek producer Konstantinos Soublis — Vibrant Forms II is a masterclass in making emptiness feel full. Every echo has a purpose.",
+      "isNew": false
+    },
+    {
+      "name": "Ghosts",
+      "artist": "Monolake",
+      "album": "Ghosts",
+      "art": "https://i.scdn.co/image/ab67616d0000b273a2fcea90cbde14ee4d2449a3",
+      "url": "https://open.spotify.com/track/6gDuOfKaheLOtJUirnTgul",
+      "reason": "Robert Henke (also creator of Ableton Live) — this track feels like the space between buildings in Roppongi at dusk.",
+      "isNew": false
+    },
+    {
+      "name": "King in My Empire",
+      "artist": "Rhythm & Sound",
+      "album": "With the Artists",
+      "art": "https://i.scdn.co/image/ab67616d0000b273175ab822c572bdcfa9232d35",
+      "url": "https://open.spotify.com/track/5zfR5yKsmAiyiH6AbaNiOY",
+      "reason": "Basic Channel's dub reggae alias with vocalist Tikiman. Where Berlin dub techno meets Kingston — the warmest thing on this playlist.",
+      "isNew": false
+    },
+    {
+      "name": "Nautical Dub",
+      "artist": "Porter Ricks",
+      "album": "Biokinetics",
+      "art": "https://i.scdn.co/image/ab67616d0000b273554f08965d0f63ebf98d7ad5",
+      "url": "https://open.spotify.com/track/2zk7IoOyTJkJ4FexIzO99W",
+      "reason": "Harder, darker dub techno — Chain Reaction label energy. Named after an oceanic research station, sounds exactly like one.",
+      "isNew": false
+    },
+    {
+      "name": "Butterfly Effect",
+      "artist": "Shinichi Atobe",
+      "album": "Butterfly Effect",
+      "art": "https://i.scdn.co/image/ab67616d0000b27399a078d4e6223406d7a9c1b7",
+      "url": "https://open.spotify.com/track/6nvkGpQpm3JAHNAJOCiQmG",
+      "reason": "Japanese dub techno legend — reclusive Saitama producer, barely any interviews. This 12-minute piece is delicate and devastating.",
+      "isNew": false
+    },
+    {
+      "name": "Lyot - Maurizio Mix",
+      "artist": "Vainqueur, Maurizio",
+      "album": "Lyot",
+      "art": "https://i.scdn.co/image/ab67616d0000b27338b02828c94096993cad1e52",
+      "url": "https://open.spotify.com/track/52s4racNrmo1iPwZyYQq08",
+      "reason": "Vainqueur (René Löwe) remixed by Maurizio (Moritz von Oswald). Two dub techno gods on one track — Chain Reaction perfection.",
+      "isNew": false
+    },
+    {
+      "name": "Faith in Strangers",
+      "artist": "Andy Stott",
+      "album": "Faith in Strangers",
+      "art": "https://i.scdn.co/image/ab67616d0000b273ac468f68c2891aa60a8a4723",
+      "url": "https://open.spotify.com/track/4wSMi5urWxpBPbnWqfI1Ht",
+      "reason": "Manchester producer pushing dub techno into something more emotional. The vocal samples floating through distortion — gorgeous and unsettling.",
+      "isNew": false
+    },
+    {
+      "name": "Steady as a rock",
+      "artist": "Deadbeat",
+      "album": "Something Borrowed, Something Blue",
+      "art": "https://i.scdn.co/image/ab67616d0000b2731aa24ec5e19966b5a03ba2bd",
+      "url": "https://open.spotify.com/track/7a4Ss0jf0yOUEYll5y8xjB",
+      "reason": "Scott Monteith — Montreal-via-Berlin dub techno with reggae DNA. The perfect closer, like the last train home.",
+      "isNew": false
+    }
+  ]
+}
