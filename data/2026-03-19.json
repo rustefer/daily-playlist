@@ -1,97 +1,97 @@
 {
   "date": "2026-03-19",
-  "vibe": "Thursday unwind — deep house warmth, Tokyo city pop glow, lo-fi daydreams, and left-field discoveries from UK jazz to Japanese math rock",
-  "playlistUrl": "https://open.spotify.com/playlist/0b9Hiav04x6umfIlqqAOzP",
+  "vibe": "Late-night Tokyo energy — deep house warmth, city pop shimmer, and left-field discoveries to close out Thursday",
+  "playlistUrl": "https://open.spotify.com/playlist/5ajGrwkpunRY2A8enyFxUw",
   "playlistName": "Daily Discoveries — 2026-03-19",
   "tracks": [
     {
-      "name": "Sleeper",
-      "artist": "Jimpster",
-      "album": "fabric presents salute",
-      "art": "https://i.scdn.co/image/ab67616d0000b27321d00fee274d763119257a33",
-      "url": "https://open.spotify.com/track/6ScJ355A616YMVZ9UH1pOp",
-      "reason": "You've been deep in the Osunlade/Kevin Yost/Moodymann zone lately — Jimpster lives right next door with that same warm, rolling deep house energy but a slightly UK-tinged flavour.",
+      "name": "Tokai",
+      "artist": "Taeko Onuki",
+      "album": "SUNSHOWER",
+      "art": "https://i.scdn.co/image/ab67616d0000b273867f9c4d0391216d4e3d132b",
+      "url": "https://open.spotify.com/track/1SmwJJ8YVgiXtyE6elhUx1",
+      "reason": "You've been deep in Tatsuro Yamashita territory — Taeko Onuki is his wife and this 1977 SUNSHOWER cut is peak city pop with Ryuichi Sakamoto on keys. If you don't know it yet, it'll feel like finding a secret level.",
       "isNew": true
     },
     {
-      "name": "ノスタルジア・オブ・アイランド",
-      "artist": "Tatsuro Yamashita",
-      "album": "PACIFIC",
-      "art": "https://i.scdn.co/image/ab67616d0000b273a7177b1d4c69494024e02579",
-      "url": "https://open.spotify.com/track/6Ys5Xmyl13GuzVWDOqZlcL",
-      "reason": "SPARKLE's already in your top tracks — this is the deeper PACIFIC cut, all sunset-over-the-ocean vibes. Perfect for Tokyo evenings.",
+      "name": "Sparkles",
+      "artist": "Folamour",
+      "album": "Fort Bellefleur",
+      "art": "https://i.scdn.co/image/ab67616d0000b273c358152198f865837b6f4820",
+      "url": "https://open.spotify.com/track/1firsh0VynJZnf2tFI7YUW",
+      "reason": "French deep house with that same soulful warmth you get from Jimpster and &ME, but Folamour brings this jazzy, sunset-on-the-terrace energy that's hard to resist.",
       "isNew": true
     },
     {
-      "name": "81Summer",
-      "artist": "Uyama Hiroto",
-      "album": "a son of the sun",
-      "art": "https://i.scdn.co/image/ab67616d0000b273876c14922f7f7994013ed9a8",
-      "url": "https://open.spotify.com/track/1R8DL1a9aFYdOzhv6sYjV1",
-      "reason": "You know Nujabes well — Uyama Hiroto was his right hand on the production side. This solo joint is lush, jazzy lo-fi that hits different.",
+      "name": "La cumbia me está llamando (Kaidi Tatham Remix)",
+      "artist": "Nubya Garcia",
+      "album": "SOURCE ⧺ WE MOVE",
+      "art": "https://i.scdn.co/image/ab67616d0000b273344b04b0877894a136bd1a47",
+      "url": "https://open.spotify.com/track/3QjXW080AfAEA5p4C2Wtfa",
+      "reason": "You vibed with Ezra Collective's danceable UK jazz — this is Nubya Garcia going full cumbia with Kaidi Tatham flipping it into broken-beat gold. London jazz scene at its most adventurous.",
       "isNew": true
     },
     {
-      "name": "Sci-Fi",
+      "name": "potage",
+      "artist": "tricot",
+      "album": "potage",
+      "art": "https://i.scdn.co/image/ab67616d0000b2730f0f8f3c346fc42cfdcf28f9",
+      "url": "https://open.spotify.com/track/6n9AvpTLSNunpIr2Gr2AXa",
+      "reason": "Japanese math-rock trio with insane time signatures that somehow still groove. Being in Tokyo right now, this is basically required listening — intricate guitar work that'll make your brain tingle.",
+      "isNew": true
+    },
+    {
+      "name": "Red Room",
+      "artist": "Hiatus Kaiyote",
+      "album": "Mood Valiant",
+      "art": "https://i.scdn.co/image/ab67616d0000b273da81bffabbcac771ccff4e99",
+      "url": "https://open.spotify.com/track/55mvtucws4Mnro27744t9X",
+      "reason": "Melbourne neo-soul that sits right between your Sade love and your Nujabes side. Nai Palm's vocals over that wobbly bass is pure ear candy — the kind of track that rewards headphones.",
+      "isNew": true
+    },
+    {
+      "name": "Solitude",
+      "artist": "re:plus",
+      "album": "Ordinary Landscape",
+      "art": "https://i.scdn.co/image/ab67616d0000b273e89d994c719711cc54c063ef",
+      "url": "https://open.spotify.com/track/1ghPHoNXf4L5wO4kOvJUoW",
+      "reason": "Japanese lo-fi jazz producer in the Nujabes lineage — warm piano loops and dusty drums. If Uyama Hiroto's 81Summer hit right, this is the perfect next step down that rabbit hole.",
+      "isNew": true
+    },
+    {
+      "name": "Falaise",
+      "artist": "Floating Points",
+      "album": "Crush",
+      "art": "https://i.scdn.co/image/ab67616d0000b273216a393a7606aa7de52c4636",
+      "url": "https://open.spotify.com/track/3rkJH9BaiCWpRY718WTkBP",
+      "reason": "Sam Shepherd builds these intricate electronic textures that feel alive — sits in that same cerebral space as Overmono but more minimal and hypnotic. Late-night headphone territory.",
+      "isNew": true
+    },
+    {
+      "name": "Love Reigns",
+      "artist": "Mall Grab",
+      "album": "What I Breathe",
+      "art": "https://i.scdn.co/image/ab67616d0000b2732f439cdd9c519a227189bf3d",
+      "url": "https://open.spotify.com/track/7CGkR8BkFkvzrEXWYWB9gw",
+      "reason": "Lo-fi house with raw, tape-saturated energy — if Peggy Gou's stuff hits for you, Mall Grab is the grittier, more underground cousin. This one's got that 3AM warehouse warmth.",
+      "isNew": true
+    },
+    {
+      "name": "MOJABI GHOST",
       "artist": "Tainy",
       "album": "DATA",
       "art": "https://i.scdn.co/image/ab67616d0000b273f885fb64a381318a1c9c14e4",
-      "url": "https://open.spotify.com/track/3fhYAsNRR99ETnqrBZdAy0",
-      "reason": "Tainy doing reggaeton through a sci-fi electronic lens — given the Gorillaz and Damascus vibes in your rotation, this futuristic production style should click.",
+      "url": "https://open.spotify.com/track/46YjJXVXWHlQ21odKktg5e",
+      "reason": "You had Central Cee's Gata on repeat — Tainy's production here takes reggaeton into experimental electronic territory with Bad Bunny. It's the weird, beautiful side of Latin music.",
       "isNew": true
     },
     {
-      "name": "Mystery Lady",
-      "artist": "Masego",
-      "album": "Studying Abroad: Extended Stay",
-      "art": "https://i.scdn.co/image/ab67616d0000b273472da7a855e1446b36bcb83b",
-      "url": "https://open.spotify.com/track/0bkTdkWwGk3OGFX0afD3Wj",
-      "reason": "Masego's 'TrapHouseJazz' thing bridges your R&B side (Sade, The-Dream) with jazz — silky saxophone over smooth beats. Proper chill.",
-      "isNew": true
-    },
-    {
-      "name": "Glue",
-      "artist": "BICEP",
-      "album": "Bicep",
-      "art": "https://i.scdn.co/image/ab67616d0000b273d4322a9004288009f6da2975",
-      "url": "https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP",
-      "reason": "If Boy Harsher and Gesaffelstein are your dark electronic lane, BICEP is the euphoric side of that coin — nostalgic breakbeat energy that just builds and builds.",
-      "isNew": true
-    },
-    {
-      "name": "God Gave Me Feet For Dancing (feat. Yazmin Lacey)",
-      "artist": "Ezra Collective",
-      "album": "Dance, No One's Watching",
-      "art": "https://i.scdn.co/image/ab67616d0000b273e8e913bf1a4776a5fe27ce28",
-      "url": "https://open.spotify.com/track/2mxQ3VWWk47YCo9RB2fkOk",
-      "reason": "UK jazz at its most infectious — Ezra Collective won the Mercury Prize and this track with Yazmin Lacey is pure feel-good energy. Think Nujabes meets a London jazz club.",
-      "isNew": true
-    },
-    {
-      "name": "after image",
-      "artist": "toe",
-      "album": "For Long Tomorrow",
-      "art": "https://i.scdn.co/image/ab67616d0000b273218f23e309df278d5b04748c",
-      "url": "https://open.spotify.com/track/4hQK4OcnGSxHvy41vhWTaS",
-      "reason": "Japanese math rock legends — intricate guitar work that's almost meditative. You're in Tokyo, this is the city's sound distilled into shimmering post-rock.",
-      "isNew": true
-    },
-    {
-      "name": "You Are In My System - Club Mix",
+      "name": "You Are In My System (Club Mix)",
       "artist": "Kerri Chandler",
       "album": "You Are In My System",
       "art": "https://i.scdn.co/image/ab67616d0000b273a6fd3d9540e0f96427dd1614",
       "url": "https://open.spotify.com/track/63IgbFgnPSWCQWzyH3ipAs",
-      "reason": "Essential deep house from one of the genre's architects. If Moodymann and See You Again by &ME are in your heavy rotation, Kerri Chandler is non-negotiable.",
-      "isNew": true
-    },
-    {
-      "name": "Mic Check",
-      "artist": "Cornelius",
-      "album": "Fantasma (Remastered)",
-      "art": "https://i.scdn.co/image/ab67616d0000b273869f7cf031b24df4dbb1f778",
-      "url": "https://open.spotify.com/track/2KlyYVo21dWHd0QETnVIml",
-      "reason": "Cornelius is the Shibuya-kei godfather — this is hyperactive, sample-heavy Japanese electronic pop that feels like Gorillaz and math rock had a baby in a Tokyo record shop.",
+      "reason": "Deep house royalty — Kerri Chandler is the bridge between your Moodymann love and the soulful house side. This club mix is pure groove, the kind of track DJs build entire sets around.",
       "isNew": true
     }
   ]
