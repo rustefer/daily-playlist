@@ -1,0 +1,98 @@
+{
+  "date": "2026-03-23",
+  "vibe": "Monday morning vibes — city pop shimmer, deep house warmth, nu jazz grooves, Persian soul & post-punk edge",
+  "playlistUrl": "https://open.spotify.com/playlist/2jFrVFc9AgkxymSpDZgxiO",
+  "playlistName": "Daily Discoveries — 2026-03-23",
+  "tracks": [
+    {
+      "name": "MIDNIGHT DRIVER",
+      "artist": "Minako Yoshida",
+      "album": "MONOCHROME",
+      "art": "https://i.scdn.co/image/ab67616d0000b273bb14218d23418f5d83bb5321",
+      "url": "https://open.spotify.com/track/2wKsVeNrzorCLCix24ljAU",
+      "reason": "City pop deep cut — adjacent to Taeko Onuki and 加藤有紀 in his rotation",
+      "isNew": true
+    },
+    {
+      "name": "Can You Feel It",
+      "artist": "Mr. Fingers",
+      "album": "Amnesia",
+      "art": "https://i.scdn.co/image/ab67616d0000b2739568c6b3c059127cca642b4b",
+      "url": "https://open.spotify.com/track/4mNwbj8hTUjbyZSHdQVIuL",
+      "reason": "Deep house foundation — connects to his Kevin Yost, Jimpster, Osunlade taste",
+      "isNew": true
+    },
+    {
+      "name": "Brian",
+      "artist": "Alfa Mist",
+      "album": "Antiphon",
+      "art": "https://i.scdn.co/image/ab67616d0000b2735d46b069ef33382b235b296a",
+      "url": "https://open.spotify.com/track/3ejqlgVNAYr7PWuBSXl4K2",
+      "reason": "Nu jazz with soul — bridges Yussef Dayes and Nujabes in his top artists",
+      "isNew": true
+    },
+    {
+      "name": "Jooni Joonom",
+      "artist": "Leila Forouhar",
+      "album": "60 Leila Golden Songs, Vol 1 - Persian Music",
+      "art": "https://i.scdn.co/image/9e4a71316646ca9958c75a57ce7ac667de04c86a",
+      "url": "https://open.spotify.com/track/5KPqXgINJ8iux3GZgxTAvf",
+      "reason": "Persian pop classic — follows his Googoosh, Homayoun Shajarian, Nooshafarin thread",
+      "isNew": true
+    },
+    {
+      "name": "Early Summer (Remastered 2025)",
+      "artist": "Ryo Fukui",
+      "album": "シーナリィ (Remastered 2025)",
+      "art": "https://i.scdn.co/image/ab67616d0000b27380fecc5a5b803708e45f03b6",
+      "url": "https://open.spotify.com/track/2xzrgKFxv7uoqLwWYNUnVd",
+      "reason": "Japanese jazz piano — intersects his love of Japanese music and jazz fusion",
+      "isNew": true
+    },
+    {
+      "name": "Paris - Aeroplane Remix",
+      "artist": "Friendly Fires",
+      "album": "Friendly Fires",
+      "art": "https://i.scdn.co/image/ab67616d0000b2736d659f9fe9a850fd80693a29",
+      "url": "https://open.spotify.com/track/4hHjWMWYIuAFVa5RQZJFIP",
+      "reason": "Disco-house energy — links to Folamour and The Magician in his recent plays",
+      "isNew": true
+    },
+    {
+      "name": "Судно (Борис Рыжий)",
+      "artist": "Molchat Doma",
+      "album": "Этажи",
+      "art": "https://i.scdn.co/image/ab67616d0000b273d4549c0e601fbe7e8622a2f5",
+      "url": "https://open.spotify.com/track/1SHB1hp6267UK9bJQUxYvO",
+      "reason": "Post-punk/darkwave — adjacent to Boy Harsher and New Order in his top artists",
+      "isNew": true
+    },
+    {
+      "name": "Why Why Why Why Why",
+      "artist": "SAULT",
+      "album": "5",
+      "art": "https://i.scdn.co/image/ab67616d0000b2736a12b209185b576cf836efe3",
+      "url": "https://open.spotify.com/track/4zwq3QUKgMNk0NSLl7fpbP",
+      "reason": "Soul/funk collective — connects Sade's smoothness with The Blackbyrds groove he saved",
+      "isNew": true
+    },
+    {
+      "name": "Headline feat. Cise Star",
+      "artist": "re:plus",
+      "album": "Ordinary Landscape",
+      "art": "https://i.scdn.co/image/ab67616d0000b273e89d994c719711cc54c063ef",
+      "url": "https://open.spotify.com/track/4H8RWUca1AxoVLDKBCobC6",
+      "reason": "Jazz hop — same lane as Nujabes, lo-fi beats with live instrumentation",
+      "isNew": true
+    },
+    {
+      "name": "Looped",
+      "artist": "Kiasmos",
+      "album": "Kiasmos",
+      "art": "https://i.scdn.co/image/ab67616d0000b273bb0ea18476f664df4f9fd460",
+      "url": "https://open.spotify.com/track/2bB6iDVgm25WkYv0yBz1BD",
+      "reason": "Minimal electronica — bridges Gesaffelstein's edge with Daft Punk's atmosphere",
+      "isNew": true
+    }
+  ]
+}
