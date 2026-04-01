@@ -1,0 +1,98 @@
+{
+  "date": "2026-04-01",
+  "vibe": "Jazz, deep house, city pop, beats, and bass funk. Fresh cuts from the margins of your taste map.",
+  "playlistUrl": "https://open.spotify.com/playlist/3bkzdtcqNW3XAYZoojJNrH",
+  "playlistName": "Daily Discoveries — 2026-04-01",
+  "tracks": [
+    {
+      "name": "Everybody Loves The Sunshine",
+      "artist": "Takuya Kuroda",
+      "album": "Rising Son",
+      "art": "https://i.scdn.co/image/ab67616d0000b2730e4bfa69aaced763e4d0c56d",
+      "url": "https://open.spotify.com/track/4F17fOFNxTHhNk6fXq46w6",
+      "reason": "Takuya Kuroda — jazz adjacent to Yussef Dayes",
+      "isNew": true
+    },
+    {
+      "name": "Decompression",
+      "artist": "Harrison BDP",
+      "album": "Fair",
+      "art": "https://i.scdn.co/image/ab67616d0000b273bf9eef6177c71f3972d09d0c",
+      "url": "https://open.spotify.com/track/6u9JYXS4Kk0MbI05MYMAq2",
+      "reason": "Harrison BDP — deep house adjacent to Jimpster",
+      "isNew": true
+    },
+    {
+      "name": "ノスタルジア・オブ・アイランド",
+      "artist": "Tatsuro Yamashita",
+      "album": "PACIFIC",
+      "art": "https://i.scdn.co/image/ab67616d0000b273a7177b1d4c69494024e02579",
+      "url": "https://open.spotify.com/track/6Ys5Xmyl13GuzVWDOqZlcL",
+      "reason": "City pop legend — adjacent to Taeko Onuki, Anri",
+      "isNew": true
+    },
+    {
+      "name": "Oh Sheit it's X",
+      "artist": "Thundercat",
+      "album": "Apocalypse",
+      "art": "https://i.scdn.co/image/ab67616d0000b27375cdf80cc38b918251ffbda1",
+      "url": "https://open.spotify.com/track/6EidGY4S6hkU6fwNdSSabg",
+      "reason": "Thundercat — bass/funk/jazz",
+      "isNew": true
+    },
+    {
+      "name": "Wu Punk",
+      "artist": "Georgia Anne Muldrow",
+      "album": "VWETO II",
+      "art": "https://i.scdn.co/image/ab67616d0000b27393d8bdc52dc6d3c417994348",
+      "url": "https://open.spotify.com/track/3kM2A5cfd7D8sXrpEoAB5Y",
+      "reason": "Georgia Anne Muldrow — neo-soul/jazz",
+      "isNew": true
+    },
+    {
+      "name": "Coolin'",
+      "artist": "Benedek",
+      "album": "Coolin'",
+      "art": "https://i.scdn.co/image/ab67616d0000b27326f3e2c33fa75b0dfdf0d6ad",
+      "url": "https://open.spotify.com/track/6pbveobAYhf7ADzSlaDSr7",
+      "reason": "Benedek — lo-fi house",
+      "isNew": true
+    },
+    {
+      "name": "Building Steam With A Grain Of Salt",
+      "artist": "DJ Shadow",
+      "album": "Endtroducing.....",
+      "art": "https://i.scdn.co/image/ab67616d0000b273c02294cf9b5ec88cd939a8a6",
+      "url": "https://open.spotify.com/track/4Ms0GKHCtr5Lpg4dKOhO2I",
+      "reason": "DJ Shadow — trip hop/beats",
+      "isNew": true
+    },
+    {
+      "name": "Rolled Up",
+      "artist": "Benny Sings",
+      "album": "Music",
+      "art": "https://i.scdn.co/image/ab67616d0000b273140f3672328ac1cae2de86a5",
+      "url": "https://open.spotify.com/track/4DWyAq9ExNPogDaduac3Ym",
+      "reason": "Benny Sings — pop/soul",
+      "isNew": true
+    },
+    {
+      "name": "Pineapple Crush",
+      "artist": "Lone",
+      "album": "Pineapple Crush / Angel Brain",
+      "art": "https://i.scdn.co/image/ab67616d0000b2734be963f3c2478ed9dfb18031",
+      "url": "https://open.spotify.com/track/17PdTsY9iIpPKZvQxP2OLk",
+      "reason": "Lone — house/electronic",
+      "isNew": true
+    },
+    {
+      "name": "Mashita",
+      "artist": "Mansur Brown",
+      "album": "Shiroi",
+      "art": "https://i.scdn.co/image/ab67616d0000b273476affea4e5de4b82d070234",
+      "url": "https://open.spotify.com/track/63qms9nLmxysDtXAv6Y4Ik",
+      "reason": "Mansur Brown — jazz/neo-soul",
+      "isNew": true
+    }
+  ]
+}
